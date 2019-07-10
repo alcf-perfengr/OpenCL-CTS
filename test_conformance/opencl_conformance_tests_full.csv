@@ -85,8 +85,8 @@ OpenCL-GL Sharing,gl/bin/test_conformance_gl
 # #########################################
 Select,select/bin/test_conformance_select
 Conversions,conversions/bin/test_conformance_conversions
-Contractions,contractions/contractions
-Math,math_brute_force/bruteforce
+Contractions,contractions/bin/test_conformance_contractions
+Math,math_brute_force/bin/test_conformance_bruteforce
 Integer Ops,integer_ops/bin/test_conformance_integer_ops
 Half Ops,half/bin/test_conformance_half
 
